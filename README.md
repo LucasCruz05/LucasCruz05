@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas!
 👩🏻‍💻 Software Engineer in the makings
-👩🏻‍🎓 Studying [D.A.W.] at I.E.S. Playamar, Torremolinos, Málaga <br/>
+👩🏻‍🎓 Studying [D.A.W] at I.E.S. Playamar, Torremolinos, Málaga <br/>
 💭 Currently learning about Java and HTML
 
 <!-- GitHub stats from https://github.com/LucasCruz05/github-readme-stats -->
@@ -8,7 +8,7 @@
 # 💻 Tech Stack (Learning)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%23FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-!![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
